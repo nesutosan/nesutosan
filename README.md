@@ -6,7 +6,7 @@
   - **Configuration Management:** Ansible
   - **Cloud Platforms:** AWS, Azure, GCP
   - **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation
-  - **Monitoring and Logging:** Prometheus, Grafana
+  - **Monitoring and Logging:** Prometheus, Grafana, Grafana Loki, Promtail
   - **Scripting:** Bash, Python
   - **Version Control:** Git, GitHub, GitLab
   - **Collaboration:** Slack, Microsoft Teams

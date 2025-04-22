@@ -17,7 +17,7 @@
   - **Kubernetes Cluster Setup:** Deployed a highly available Kubernetes cluster on _On-Premise_ and _Cloud Provider_ such as AWS, Azure, Huawei Cloud by using `Terraform` for infrastructure provisioning and `Ansible` for configuration management.
   - **Containerization:** Containerized legacy applications using `Docker`, improving scalability and portability.
   - **Observability:** Implemented `Prometheus`, `Grafana`, `Loki`, `Mimir`, `Tempo` for monitoring, tracing, logging and alerting, ensuring high availability and performance.
-- 📝 I occasionally write about DevOps,cloud technologies and my hobby like book review on my [blog](https://nesutosan.medium.com/). Check it out to learn more about my experiences and insights.
+- 📝 I occasionally write about DevOps,cloud technologies and my hobby like book review on my [blog](https://nestpractice.com). Check it out to learn more about my experiences and insights.
 
 <!---
 nesutosan/nesutosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
